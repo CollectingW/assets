@@ -2,6 +2,7 @@ tmp/*
 *.DS_Store
 *.wad
 *.bsp
+!common/maps/ndu.bsp
 !common/maps/ndu_cam.bsp
 !common/maps/derriese.bsp
 !common/maps/town.bsp
