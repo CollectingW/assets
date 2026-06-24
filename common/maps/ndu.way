@@ -574,8 +574,8 @@ origin = '1452 2749 224'
 id = 40
 special = 
 target = 39
-target2 = 
-target3 = 
+target2 = 73
+target3 = 74
 target4 = 
 target5 = 
 target6 = 
@@ -679,7 +679,7 @@ origin = '2131 2637 224'
 id = 47
 special = 
 target = 45
-target2 = 
+target2 = 75
 target3 = 
 target4 = 
 target5 = 
@@ -710,7 +710,7 @@ id = 49
 special = 
 target = 34
 target2 = 50
-target3 = 
+target3 = 72
 target4 = 
 target5 = 
 target6 = 
@@ -1025,6 +1025,62 @@ id = 71
 special = 
 target = 32
 target2 = 33
+target3 = 
+target4 = 
+target5 = 
+target6 = 
+target7 = 
+target8 = 
+}
+Waypoint
+{
+origin = '1132 3094 248'
+id = 72
+special = 
+target = 49
+target2 = 
+target3 = 
+target4 = 
+target5 = 
+target6 = 
+target7 = 
+target8 = 
+}
+Waypoint
+{
+origin = '1556 3254 264'
+id = 73
+special = 
+target = 40
+target2 = 
+target3 = 
+target4 = 
+target5 = 
+target6 = 
+target7 = 
+target8 = 
+}
+Waypoint
+{
+origin = '1772 3255 248'
+id = 74
+special = 
+target = 40
+target2 = 
+target3 = 
+target4 = 
+target5 = 
+target6 = 
+target7 = 
+target8 = 
+}
+Waypoint
+{
+origin = '2196 3254 248'
+id = 75
+special = 
+target = 47
+target2 = 
 target3 = 
 target4 = 
 target5 = 
