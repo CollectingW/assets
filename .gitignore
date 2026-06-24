@@ -2,6 +2,10 @@ tmp/*
 *.DS_Store
 *.wad
 *.bsp
+!common/maps/ndu_cam.bsp
+!common/maps/derriese.bsp
+!common/maps/town.bsp
+!common/maps/nzp_kinodertoten.bsp
 *.nsz
 source/textures/wad/*.log
 wadmaker.dat
