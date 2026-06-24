@@ -39,6 +39,8 @@ jobs:
     needs: [Build]
     if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     container:
       image: ubuntu:24.04
     steps:
